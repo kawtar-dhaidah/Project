@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\projects6git\\Myapplication\\emailling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4744FC-0A14-48E5-9DC7-607AF62E7A54}|emailling.csproj|d:\\projects6git\\myapplication\\emailling\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB4744FC-0A14-48E5-9DC7-607AF62E7A54}|emailling.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4744FC-0A14-48E5-9DC7-607AF62E7A54}|emailling.csproj|d:\\projects6git\\myapplication\\emailling\\emailling.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FB4744FC-0A14-48E5-9DC7-607AF62E7A54}|emailling.csproj|solutionrelative:emailling.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4744FC-0A14-48E5-9DC7-607AF62E7A54}|emailling.csproj|d:\\projects6git\\myapplication\\emailling\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FB4744FC-0A14-48E5-9DC7-607AF62E7A54}|emailling.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4744FC-0A14-48E5-9DC7-607AF62E7A54}|emailling.csproj|d:\\projects6git\\myapplication\\emailling\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB4744FC-0A14-48E5-9DC7-607AF62E7A54}|emailling.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4744FC-0A14-48E5-9DC7-607AF62E7A54}|emailling.csproj|d:\\projects6git\\myapplication\\emailling\\controllers\\categoriecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB4744FC-0A14-48E5-9DC7-607AF62E7A54}|emailling.csproj|solutionrelative:controllers\\categoriecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4744FC-0A14-48E5-9DC7-607AF62E7A54}|emailling.csproj|d:\\projects6git\\myapplication\\emailling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB4744FC-0A14-48E5-9DC7-607AF62E7A54}|emailling.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4744FC-0A14-48E5-9DC7-607AF62E7A54}|emailling.csproj|d:\\projects6git\\myapplication\\emailling\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB4744FC-0A14-48E5-9DC7-607AF62E7A54}|emailling.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4744FC-0A14-48E5-9DC7-607AF62E7A54}|emailling.csproj|d:\\projects6git\\myapplication\\emailling\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FB4744FC-0A14-48E5-9DC7-607AF62E7A54}|emailling.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\projects6git\\Myapplication\\emailling\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\projects6git\\Myapplication\\emailling\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAQwCgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T22:52:32.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\projects6git\\Myapplication\\emailling\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\projects6git\\Myapplication\\emailling\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T22:51:36.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "categorieController.cs",
+              "DocumentMoniker": "D:\\projects6git\\Myapplication\\emailling\\Controllers\\categorieController.cs",
+              "RelativeDocumentMoniker": "Controllers\\categorieController.cs",
+              "ToolTip": "D:\\projects6git\\Myapplication\\emailling\\Controllers\\categorieController.cs",
+              "RelativeToolTip": "Controllers\\categorieController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T22:51:36.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\projects6git\\Myapplication\\emailling\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\projects6git\\Myapplication\\emailling\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-11T22:51:36.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\projects6git\\Myapplication\\emailling\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "D:\\projects6git\\Myapplication\\emailling\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T22:51:36.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "emailling.csproj",
+              "DocumentMoniker": "D:\\projects6git\\Myapplication\\emailling\\emailling.csproj",
+              "RelativeDocumentMoniker": "emailling.csproj",
+              "ToolTip": "D:\\projects6git\\Myapplication\\emailling\\emailling.csproj",
+              "RelativeToolTip": "emailling.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-11T22:51:36.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\projects6git\\Myapplication\\emailling\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\projects6git\\Myapplication\\emailling\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T22:51:36.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\projects6git\\Myapplication\\emailling\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\projects6git\\Myapplication\\emailling\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-11T22:51:36.344Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lNWyXqPDbakDo9+WutjThTZC6ymgG5zS1C3zxQ5HfXQ=",
+  "Source": "emailling",
+  "BasePath": "_content/emailling",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
